@@ -1,0 +1,439 @@
+Country,Year,Maternal_Mortality_Ratio,Birth_Attend_Rate,GNI_Per_Cap
+Afghanistan,2013.0,NA,45.2,2e3
+Albania,2008.0,NA,99.3,8920.0
+Albania,2e3,43.0,NA,4370.0
+Albania,1990.0,71.0,NA,2840.0
+Algeria,2012.0,NA,96.6,12750.0
+Algeria,2e3,170.0,NA,7460.0
+Algeria,1990.0,216.0,NA,6330.0
+Angola,2006.0,NA,46.7,4260.0
+Angola,2e3,924.0,NA,2190.0
+Angola,1990.0,1160.0,NA,2190.0
+Armenia,2010.0,NA,99.5,6620.0
+Armenia,2e3,40.0,NA,2380.0
+Armenia,1990.0,58.0,NA,2330.0
+Australia,2013.0,NA,99.3,42540.0
+Australia,2e3,9.0,NA,25580.0
+Australia,1990.0,8.0,NA,16820.0
+Austria,2e3,5.0,NA,28450.0
+Austria,1990.0,8.0,NA,19180.0
+Azerbaijan,2011.0,NA,97.2,14590.0
+Azerbaijan,2e3,48.0,NA,3350.0
+Bahamas,2e3,61.0,NA,20020.0
+Bahamas,1990.0,46.0,NA,17480.0
+Bahrain,2e3,21.0,NA,34880.0
+Bahrain,1990.0,26.0,NA,19200.0
+Bangladesh,2e3,399.0,NA,1140.0
+Bangladesh,1990.0,569.0,NA,710.0
+Barbados,2012.0,NA,98.9,15080.0
+Barbados,2e3,48.0,NA,11320.0
+Barbados,1990.0,58.0,NA,8250.0
+Belarus,2012.0,NA,100.0,16800.0
+Belarus,2e3,26.0,NA,5770.0
+Belarus,1990.0,33.0,NA,5230.0
+Belgium,2e3,9.0,NA,28310.0
+Belgium,1990.0,9.0,NA,18650.0
+Belize,2011.0,NA,95.1,7940.0
+Belize,2e3,53.0,NA,6160.0
+Belize,1990.0,54.0,NA,3280.0
+Benin,2e3,572.0,NA,1200.0
+Benin,1990.0,576.0,NA,860.0
+Bhutan,2012.0,NA,74.6,6960.0
+Bhutan,2e3,423.0,NA,2860.0
+Bhutan,1990.0,945.0,NA,1420.0
+Bolivia (Plurinational State of),2012.0,NA,85.1,5400.0
+Bolivia (Plurinational State of),2e3,334.0,NA,3340.0
+Bolivia (Plurinational State of),1990.0,425.0,NA,2300.0
+Bosnia and Herzegovina,2e3,17.0,NA,4840.0
+Botswana,2013.0,NA,99.9,15500.0
+Botswana,2e3,311.0,NA,7620.0
+Botswana,1990.0,243.0,NA,5070.0
+Brazil,2013.0,NA,99.1,14750.0
+Brazil,2e3,66.0,NA,8500.0
+Brazil,1990.0,104.0,NA,6300.0
+Brunei Darussalam,2e3,31.0,NA,59100.0
+Brunei Darussalam,1990.0,35.0,NA,49930.0
+Bulgaria,2e3,21.0,NA,6080.0
+Bulgaria,1990.0,25.0,NA,4970.0
+Burkina Faso,2010.0,NA,65.9,1390.0
+Burkina Faso,2e3,547.0,NA,840.0
+Burkina Faso,1990.0,727.0,NA,540.0
+Burundi,2010.0,NA,60.3,710.0
+Burundi,2e3,954.0,NA,580.0
+Burundi,1990.0,1220.0,NA,670.0
+Cote d'Ivoire,2011.0,NA,56.4,2460.0
+Cote d'Ivoire,2e3,671.0,NA,2160.0
+Cote d'Ivoire,1990.0,745.0,NA,1710.0
+Cabo Verde,2013.0,NA,92.3,6220.0
+Cabo Verde,2e3,83.0,NA,2910.0
+Cabo Verde,1990.0,256.0,NA,1050.0
+Cambodia,2e3,484.0,NA,1050.0
+Cameroon,2e3,750.0,NA,1710.0
+Cameroon,1990.0,728.0,NA,1640.0
+Canada,2011.0,NA,98.4,40570.0
+Canada,2e3,9.0,NA,28240.0
+Canada,1990.0,7.0,NA,19150.0
+Central African Republic,2010.0,NA,40.0,880.0
+Central African Republic,2e3,1200.0,NA,550.0
+Central African Republic,1990.0,1290.0,NA,500.0
+Chad,2e3,1370.0,NA,730.0
+Chad,1990.0,1450.0,NA,710.0
+Chile,2013.0,NA,99.8,21030.0
+Chile,2e3,31.0,NA,9320.0
+Chile,1990.0,57.0,NA,4140.0
+China,2e3,58.0,NA,2830.0
+China,1990.0,97.0,NA,1010.0
+Colombia,2013.0,NA,98.7,11890.0
+Colombia,2e3,97.0,NA,6520.0
+Colombia,1990.0,118.0,NA,4760.0
+Comoros,2012.0,NA,82.2,1520.0
+Comoros,2e3,499.0,NA,1250.0
+Comoros,1990.0,635.0,NA,1170.0
+Congo,2e3,653.0,NA,2590.0
+Congo,1990.0,603.0,NA,2830.0
+Costa Rica,2e3,38.0,NA,6990.0
+Costa Rica,1990.0,43.0,NA,4590.0
+Croatia,2e3,11.0,NA,10730.0
+Cuba,2e3,43.0,NA,8670.0
+Cuba,1990.0,58.0,NA,8580.0
+Cyprus,2013.0,NA,99.9,28830.0
+Cyprus,2e3,15.0,NA,18190.0
+Cyprus,1990.0,16.0,NA,12500.0
+Czech Republic,2013.0,NA,99.8,25530.0
+Czech Republic,2e3,7.0,NA,15320.0
+Democratic Republic of the Congo,2013.0,NA,80.1,680.0
+Democratic Republic of the Congo,2e3,874.0,NA,410.0
+Democratic Republic of the Congo,1990.0,879.0,NA,750.0
+Denmark,2012.0,NA,98.2,43200.0
+Denmark,2e3,9.0,NA,28240.0
+Denmark,1990.0,11.0,NA,17980.0
+Djibouti,2e3,401.0,NA,1700.0
+Dominican Republic,2e3,79.0,NA,5460.0
+Dominican Republic,1990.0,198.0,NA,2950.0
+Ecuador,2e3,103.0,NA,5310.0
+Ecuador,1990.0,185.0,NA,4380.0
+Egypt,2e3,63.0,NA,6260.0
+Egypt,1990.0,106.0,NA,3800.0
+El Salvador,2e3,84.0,NA,4880.0
+El Salvador,1990.0,157.0,NA,2820.0
+Equatorial Guinea,2011.0,NA,68.3,27630.0
+Equatorial Guinea,2e3,702.0,NA,6030.0
+Equatorial Guinea,1990.0,1310.0,NA,730.0
+Eritrea,2010.0,NA,34.1,1050.0
+Eritrea,2e3,733.0,NA,1150.0
+Estonia,2e3,26.0,NA,9380.0
+Ethiopia,2e3,897.0,NA,480.0
+Ethiopia,1990.0,1250.0,NA,410.0
+Fiji,2013.0,NA,98.8,7610.0
+Fiji,2e3,42.0,NA,5560.0
+Fiji,1990.0,63.0,NA,3790.0
+Finland,2e3,5.0,NA,25500.0
+Finland,1990.0,6.0,NA,17090.0
+France,2013.0,NA,98.3,37580.0
+France,2e3,12.0,NA,25560.0
+France,1990.0,15.0,NA,17130.0
+Gabon,2012.0,NA,89.3,16490.0
+Gabon,2e3,405.0,NA,11710.0
+Gabon,1990.0,422.0,NA,11120.0
+Gambia,2013.0,NA,57.2,1620.0
+Gambia,2e3,887.0,NA,1190.0
+Gambia,1990.0,1030.0,NA,900.0
+Georgia,2e3,37.0,NA,2700.0
+Georgia,1990.0,34.0,NA,5210.0
+Germany,2e3,8.0,NA,25510.0
+Germany,1990.0,11.0,NA,18750.0
+Ghana,2e3,467.0,NA,1720.0
+Ghana,1990.0,634.0,NA,1200.0
+Greece,2e3,4.0,NA,18340.0
+Greece,1990.0,5.0,NA,12950.0
+Grenada,2e3,29.0,NA,7210.0
+Grenada,1990.0,41.0,NA,4580.0
+Guatemala,2e3,178.0,NA,4950.0
+Guatemala,1990.0,205.0,NA,3370.0
+Guinea,2012.0,NA,45.3,1140.0
+Guinea,2e3,976.0,NA,880.0
+Guinea,1990.0,1040.0,NA,690.0
+Guinea-Bissau,2e3,800.0,NA,560.0
+Guinea-Bissau,1990.0,907.0,NA,930.0
+Guyana,2e3,210.0,NA,3730.0
+Guyana,1990.0,171.0,NA,1450.0
+Haiti,2012.0,NA,37.3,1640.0
+Honduras,2011.0,NA,82.8,4110.0
+Honduras,2e3,133.0,NA,2680.0
+Honduras,1990.0,272.0,NA,1900.0
+Hungary,2010.0,NA,99.1,20140.0
+Hungary,2e3,15.0,NA,11310.0
+Hungary,1990.0,24.0,NA,8540.0
+Iceland,2e3,5.0,NA,28070.0
+Iceland,1990.0,7.0,NA,20580.0
+India,2013.0,NA,74.4,5350.0
+India,2e3,374.0,NA,2040.0
+India,1990.0,556.0,NA,1160.0
+Indonesia,2013.0,NA,87.4,9260.0
+Indonesia,2e3,265.0,NA,4010.0
+Indonesia,1990.0,446.0,NA,2660.0
+Iran (Islamic Republic of),2e3,51.0,NA,8490.0
+Iran (Islamic Republic of),1990.0,123.0,NA,5620.0
+Iraq,2011.0,NA,90.9,13620.0
+Ireland,2e3,9.0,NA,24930.0
+Ireland,1990.0,11.0,NA,12050.0
+Israel,2e3,8.0,NA,21480.0
+Israel,1990.0,11.0,NA,13100.0
+Italy,2013.0,NA,99.9,34100.0
+Italy,2e3,5.0,NA,25590.0
+Italy,1990.0,8.0,NA,17360.0
+Jamaica,2011.0,NA,98.6,8170.0
+Jamaica,2e3,89.0,NA,6210.0
+Jamaica,1990.0,79.0,NA,4330.0
+Japan,2e3,10.0,NA,26260.0
+Japan,1990.0,14.0,NA,19370.0
+Jordan,2012.0,NA,99.6,11390.0
+Jordan,2e3,77.0,NA,6180.0
+Jordan,1990.0,110.0,NA,4340.0
+Kazakhstan,2010.0,NA,99.5,16710.0
+Kazakhstan,2e3,65.0,NA,7170.0
+Kenya,2e3,759.0,NA,1420.0
+Kenya,1990.0,687.0,NA,1250.0
+Kiribati,2009.0,NA,79.8,2430.0
+Kiribati,2e3,166.0,NA,2320.0
+Kiribati,1990.0,234.0,NA,1600.0
+Kuwait,2e3,7.0,NA,75580.0
+Kyrgyzstan,2e3,74.0,NA,1550.0
+Kyrgyzstan,1990.0,80.0,NA,2250.0
+Lao People's Democratic Republic,2011.0,NA,40.1,3840.0
+Lao People's Democratic Republic,2e3,546.0,NA,1770.0
+Lao People's Democratic Republic,1990.0,905.0,NA,1050.0
+Latvia,2e3,30.0,NA,8050.0
+Latvia,1990.0,48.0,NA,7810.0
+Lebanon,2004.0,NA,98.2,10250.0
+Lebanon,2e3,42.0,NA,9970.0
+Lebanon,1990.0,74.0,NA,6110.0
+Lesotho,2e3,649.0,NA,1710.0
+Lesotho,1990.0,629.0,NA,1410.0
+Liberia,2013.0,NA,61.1,790.0
+Liberia,2e3,1270.0,NA,360.0
+Lithuania,2006.0,NA,100.0,16430.0
+Lithuania,2e3,16.0,NA,8480.0
+Lithuania,1990.0,29.0,NA,9300.0
+Luxembourg,2009.0,NA,99.9,52190.0
+Luxembourg,2e3,13.0,NA,46800.0
+Luxembourg,1990.0,12.0,NA,28820.0
+Madagascar,2012.0,NA,44.3,1340.0
+Madagascar,2e3,536.0,NA,1130.0
+Madagascar,1990.0,778.0,NA,1040.0
+Malawi,2013.0,NA,87.4,750.0
+Malawi,2e3,890.0,NA,490.0
+Malawi,1990.0,957.0,NA,340.0
+Malaysia,2e3,58.0,NA,11440.0
+Malaysia,1990.0,79.0,NA,6300.0
+Maldives,2012.0,NA,95.5,9310.0
+Mali,2012.0,NA,57.1,1550.0
+Mali,2e3,834.0,NA,990.0
+Mali,1990.0,1010.0,NA,710.0
+Malta,2013.0,NA,99.9,28030.0
+Malta,2e3,15.0,NA,18590.0
+Malta,1990.0,13.0,NA,11740.0
+Marshall Islands,2011.0,NA,90.1,4260.0
+Mauritania,2011.0,NA,65.1,2610.0
+Mauritania,2e3,813.0,NA,1760.0
+Mauritania,1990.0,859.0,NA,1350.0
+Mauritius,2e3,40.0,NA,8950.0
+Mauritius,1990.0,81.0,NA,4860.0
+Mexico,2e3,77.0,NA,9990.0
+Mexico,1990.0,90.0,NA,5800.0
+Micronesia (Federated States of),2009.0,NA,100.0,3330.0
+Micronesia (Federated States of),2e3,153.0,NA,2580.0
+Mongolia,2013.0,NA,98.9,8810.0
+Mongolia,2e3,161.0,NA,3090.0
+Mongolia,1990.0,186.0,NA,2740.0
+Montenegro,2013.0,NA,99.0,14600.0
+Montenegro,2e3,11.0,NA,6880.0
+Morocco,2011.0,NA,73.6,6490.0
+Morocco,2e3,221.0,NA,3420.0
+Morocco,1990.0,317.0,NA,2550.0
+Mozambique,2011.0,NA,54.3,910.0
+Mozambique,2e3,915.0,NA,410.0
+Mozambique,1990.0,1390.0,NA,260.0
+Namibia,2013.0,NA,88.2,9590.0
+Namibia,2e3,352.0,NA,4930.0
+Namibia,1990.0,338.0,NA,3780.0
+Nepal,2e3,548.0,NA,1260.0
+Nepal,1990.0,901.0,NA,810.0
+Netherlands,2e3,14.0,NA,30070.0
+Netherlands,1990.0,12.0,NA,17490.0
+New Zealand,2e3,12.0,NA,20090.0
+New Zealand,1990.0,18.0,NA,14200.0
+Nicaragua,2011.0,NA,88.0,4110.0
+Nicaragua,2e3,202.0,NA,2620.0
+Nicaragua,1990.0,173.0,NA,1920.0
+Niger,2012.0,NA,29.3,880.0
+Niger,2e3,794.0,NA,610.0
+Niger,1990.0,873.0,NA,590.0
+Nigeria,2013.0,NA,35.2,5360.0
+Nigeria,2e3,1170.0,NA,1940.0
+Nigeria,1990.0,1350.0,NA,1770.0
+Norway,2e3,7.0,NA,35690.0
+Norway,1990.0,7.0,NA,17370.0
+Oman,2e3,20.0,NA,29010.0
+Oman,1990.0,30.0,NA,18490.0
+Pakistan,2012.0,NA,52.1,4670.0
+Pakistan,2e3,306.0,NA,2640.0
+Pakistan,1990.0,431.0,NA,2e3
+Panama,2013.0,NA,91.4,19290.0
+Panama,2e3,82.0,NA,7480.0
+Panama,1990.0,102.0,NA,4600.0
+Papua New Guinea,2013.0,NA,43.0,2430.0
+Papua New Guinea,2e3,342.0,NA,1380.0
+Papua New Guinea,1990.0,470.0,NA,1e3
+Paraguay,2013.0,NA,95.7,7640.0
+Paraguay,2e3,158.0,NA,4140.0
+Peru,2e3,140.0,NA,5e3
+Peru,1990.0,251.0,NA,3290.0
+Philippines,2013.0,NA,72.8,7820.0
+Philippines,2e3,124.0,NA,3950.0
+Philippines,1990.0,152.0,NA,2550.0
+Poland,2e3,8.0,NA,10540.0
+Portugal,2e3,13.0,NA,17340.0
+Portugal,1990.0,17.0,NA,10960.0
+Qatar,2012.0,NA,100.0,121750.0
+Republic of Korea,2012.0,NA,99.8,32150.0
+Republic of Korea,2e3,16.0,NA,17990.0
+Republic of Korea,1990.0,21.0,NA,8600.0
+Republic of Moldova,2012.0,NA,99.2,4710.0
+Republic of Moldova,2e3,49.0,NA,1870.0
+Republic of Moldova,1990.0,51.0,NA,4160.0
+Romania,2008.0,NA,98.7,15280.0
+Romania,2e3,51.0,NA,5670.0
+Romania,1990.0,124.0,NA,5160.0
+Russian Federation,2008.0,NA,99.6,19710.0
+Russian Federation,2e3,57.0,NA,6650.0
+Russian Federation,1990.0,63.0,NA,8e3
+Rwanda,2e3,1020.0,NA,600.0
+Rwanda,1990.0,1300.0,NA,550.0
+Saint Lucia,2012.0,NA,98.7,10260.0
+Saint Lucia,2e3,54.0,NA,7060.0
+Saint Lucia,1990.0,45.0,NA,4720.0
+Saint Vincent and the Grenadines,2e3,74.0,NA,5720.0
+Saint Vincent and the Grenadines,1990.0,58.0,NA,3500.0
+Samoa,2e3,93.0,NA,3080.0
+Samoa,1990.0,156.0,NA,3090.0
+Saudi Arabia,2013.0,NA,98.0,53780.0
+Saudi Arabia,2e3,23.0,NA,29490.0
+Saudi Arabia,1990.0,46.0,NA,24390.0
+Senegal,2012.0,NA,59.1,2180.0
+Senegal,2e3,488.0,NA,1490.0
+Senegal,1990.0,540.0,NA,1160.0
+Serbia,2e3,17.0,NA,5790.0
+Seychelles,2012.0,NA,99.0,22220.0
+Sierra Leone,2013.0,NA,59.7,1750.0
+Sierra Leone,2e3,2650.0,NA,770.0
+Sierra Leone,1990.0,2630.0,NA,770.0
+Singapore,2e3,18.0,NA,40610.0
+Singapore,1990.0,12.0,NA,21930.0
+Slovakia,2008.0,NA,99.5,22840.0
+Slovakia,2e3,8.0,NA,10960.0
+Slovakia,1990.0,11.0,NA,7680.0
+Slovenia,2012.0,NA,99.8,27610.0
+Slovenia,2e3,12.0,NA,17590.0
+Solomon Islands,2006.0,NA,85.5,1540.0
+Solomon Islands,2e3,214.0,NA,1360.0
+Solomon Islands,1990.0,364.0,NA,790.0
+South Africa,2008.0,NA,94.3,10960.0
+South Africa,2e3,85.0,NA,7370.0
+South Africa,1990.0,108.0,NA,6190.0
+South Sudan,2010.0,NA,17.2,2600.0
+Spain,2e3,5.0,NA,21160.0
+Spain,1990.0,6.0,NA,13200.0
+Sri Lanka,2006.0,NA,98.6,5640.0
+Sri Lanka,2e3,57.0,NA,3850.0
+Sri Lanka,1990.0,75.0,NA,2150.0
+Sudan,2010.0,NA,19.9,2970.0
+Sudan,2e3,544.0,NA,1790.0
+Sudan,1990.0,744.0,NA,1110.0
+Suriname,2010.0,NA,90.0,13730.0
+Suriname,2e3,259.0,NA,7810.0
+Suriname,1990.0,127.0,NA,6700.0
+Swaziland,2e3,586.0,NA,4730.0
+Swaziland,1990.0,635.0,NA,3660.0
+Sweden,2e3,5.0,NA,27750.0
+Sweden,1990.0,8.0,NA,19010.0
+Switzerland,2e3,7.0,NA,34890.0
+Switzerland,1990.0,8.0,NA,25940.0
+Tajikistan,2012.0,NA,87.4,2340.0
+Tajikistan,2e3,68.0,NA,900.0
+Tajikistan,1990.0,107.0,NA,2350.0
+Thailand,2012.0,NA,99.6,13420.0
+Thailand,2e3,25.0,NA,6980.0
+Thailand,1990.0,40.0,NA,4070.0
+The former Yugoslav republic of Macedonia,2e3,12.0,NA,5710.0
+The former Yugoslav republic of Macedonia,1990.0,14.0,NA,5220.0
+Timor-Leste,2009.0,NA,29.3,5100.0
+Timor-Leste,2e3,694.0,NA,1640.0
+Togo,2013.0,NA,44.6,1180.0
+Togo,2e3,491.0,NA,1010.0
+Togo,1990.0,568.0,NA,860.0
+Tonga,2012.0,NA,95.5,5370.0
+Tonga,2e3,97.0,NA,3700.0
+Tonga,1990.0,75.0,NA,2370.0
+Trinidad and Tobago,2e3,62.0,NA,12980.0
+Trinidad and Tobago,1990.0,90.0,NA,8040.0
+Tunisia,2011.0,NA,73.6,9720.0
+Tunisia,2e3,84.0,NA,5620.0
+Tunisia,1990.0,131.0,NA,3420.0
+Turkey,2013.0,NA,97.4,18760.0
+Turkey,2e3,79.0,NA,9180.0
+Turkey,1990.0,97.0,NA,4360.0
+Turkmenistan,2005.0,NA,99.5,5400.0
+Turkmenistan,2e3,59.0,NA,3990.0
+Tuvalu,2007.0,NA,93.1,5430.0
+Uganda,2011.0,NA,58.0,1310.0
+Uganda,2e3,620.0,NA,690.0
+Uganda,1990.0,687.0,NA,410.0
+Ukraine,2012.0,NA,99.0,8670.0
+Ukraine,2e3,34.0,NA,3710.0
+Ukraine,1990.0,46.0,NA,6960.0
+United Arab Emirates,2010.0,NA,100.0,56260.0
+United Kingdom of Great Britain and Northern Ireland,2e3,12.0,NA,26280.0
+United Kingdom of Great Britain and Northern Ireland,1990.0,10.0,NA,15770.0
+United Republic of Tanzania,2010.0,NA,48.9,1500.0
+United Republic of Tanzania,2e3,842.0,NA,820.0
+United Republic of Tanzania,1990.0,997.0,NA,640.0
+United States of America,2e3,12.0,NA,36930.0
+United States of America,1990.0,12.0,NA,23730.0
+Uruguay,2013.0,NA,98.2,18930.0
+Uruguay,2e3,31.0,NA,9960.0
+Uruguay,1990.0,37.0,NA,6e3
+Uzbekistan,2006.0,NA,99.6,2950.0
+Uzbekistan,2e3,34.0,NA,1940.0
+Vanuatu,2013.0,NA,89.4,2840.0
+Vanuatu,2e3,144.0,NA,2120.0
+Vanuatu,1990.0,225.0,NA,1680.0
+Venezuela (Bolivarian Republic of),2e3,90.0,NA,11340.0
+Venezuela (Bolivarian Republic of),1990.0,94.0,NA,9260.0
+Viet Nam,2013.0,NA,93.8,5030.0
+Viet Nam,2e3,81.0,NA,2070.0
+Viet Nam,1990.0,139.0,NA,910.0
+Yemen,2013.0,NA,43.0,3820.0
+Yemen,2e3,440.0,NA,2930.0
+Yemen,1990.0,547.0,NA,2210.0
+Zambia,2013.0,NA,64.2,3070.0
+Zambia,2e3,541.0,NA,1590.0
+Zambia,1990.0,577.0,NA,1500.0
+Zimbabwe,2e3,590.0,NA,1890.0
+Zimbabwe,1990.0,440.0,NA,1590.0
+Albania,2009.0,NA,99.3,9370.0
+Algeria,2013.0,NA,96.6,12990.0
+Angola,2007.0,NA,46.7,5320.0
+Cote d'Ivoire,2012.0,NA,56.4,2680.0
+Honduras,2012.0,NA,82.8,4190.0
+Kazakhstan,2011.0,NA,99.5,17710.0
+Lao People's Democratic Republic,2012.0,NA,40.1,4170.0
+Madagascar,2013.0,NA,44.3,1350.0
+Mali,2013.0,NA,57.1,1540.0
+Nicaragua,2012.0,NA,88.0,4240.0
+Pakistan,2013.0,NA,52.1,4920.0
+Solomon Islands,2007.0,NA,85.5,1520.0
+Sri Lanka,2007.0,NA,98.6,6140.0
+Timor-Leste,2010.0,NA,29.3,6320.0
+Tunisia,2012.0,NA,73.6,10470.0
+Turkmenistan,2006.0,NA,99.5,6370.0
